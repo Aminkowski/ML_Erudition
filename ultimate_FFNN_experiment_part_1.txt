@@ -1,0 +1,1391 @@
+Function 'one_epoch' executed in 16.9961s
+Function 'one_epoch' executed in 16.9512s
+Function 'one_epoch' executed in 16.9212s
+Function 'one_epoch' executed in 17.0279s
+Function 'one_epoch' executed in 16.7605s
+Function 'one_epoch' executed in 16.8854s
+Function 'one_epoch' executed in 16.8788s
+Function 'one_epoch' executed in 17.2369s
+Function 'one_epoch' executed in 16.7541s
+Accuracy of the network sandwich_1_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 89.95%
+Function 'one_epoch' executed in 17.1575s
+Function 'one_epoch' executed in 16.9194s
+Function 'one_epoch' executed in 17.3367s
+Function 'one_epoch' executed in 16.8630s
+Function 'one_epoch' executed in 18.0406s
+Function 'one_epoch' executed in 16.7883s
+Function 'one_epoch' executed in 17.9383s
+Function 'one_epoch' executed in 16.7931s
+Function 'one_epoch' executed in 17.9135s
+Accuracy of the network sandwich_1_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 26.81%
+Function 'one_epoch' executed in 16.9944s
+Function 'one_epoch' executed in 17.9865s
+Function 'one_epoch' executed in 16.8260s
+Function 'one_epoch' executed in 17.7570s
+Function 'one_epoch' executed in 16.9070s
+Function 'one_epoch' executed in 17.8473s
+Function 'one_epoch' executed in 16.8909s
+Function 'one_epoch' executed in 17.8710s
+Function 'one_epoch' executed in 17.1388s
+Accuracy of the network sandwich_1_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 91.31%
+Function 'one_epoch' executed in 18.0820s
+Function 'one_epoch' executed in 16.9785s
+Function 'one_epoch' executed in 17.7257s
+Function 'one_epoch' executed in 17.0533s
+Function 'one_epoch' executed in 17.4679s
+Function 'one_epoch' executed in 16.7238s
+Function 'one_epoch' executed in 17.5304s
+Function 'one_epoch' executed in 16.9081s
+Function 'one_epoch' executed in 17.4670s
+Accuracy of the network sandwich_1_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 20.92%
+Function 'one_epoch' executed in 21.5198s
+Function 'one_epoch' executed in 20.4808s
+Function 'one_epoch' executed in 21.3655s
+Function 'one_epoch' executed in 24.8832s
+Function 'one_epoch' executed in 28.1394s
+Function 'one_epoch' executed in 29.7036s
+Function 'one_epoch' executed in 29.9918s
+Function 'one_epoch' executed in 29.7993s
+Function 'one_epoch' executed in 29.0455s
+Accuracy of the network sandwich_2_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 83.55%
+Function 'one_epoch' executed in 21.4702s
+Function 'one_epoch' executed in 21.1168s
+Function 'one_epoch' executed in 20.2563s
+Function 'one_epoch' executed in 20.5302s
+Function 'one_epoch' executed in 21.3766s
+Function 'one_epoch' executed in 21.5112s
+Function 'one_epoch' executed in 21.4757s
+Function 'one_epoch' executed in 20.4370s
+Function 'one_epoch' executed in 20.2423s
+Accuracy of the network sandwich_2_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 36.79%
+Function 'one_epoch' executed in 18.6613s
+Function 'one_epoch' executed in 17.5851s
+Function 'one_epoch' executed in 17.6570s
+Function 'one_epoch' executed in 18.7777s
+Function 'one_epoch' executed in 17.6810s
+Function 'one_epoch' executed in 18.8324s
+Function 'one_epoch' executed in 17.7324s
+Function 'one_epoch' executed in 18.0634s
+Function 'one_epoch' executed in 18.2994s
+Accuracy of the network sandwich_2_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 89.53%
+Function 'one_epoch' executed in 17.6470s
+Function 'one_epoch' executed in 18.9779s
+Function 'one_epoch' executed in 17.7668s
+Function 'one_epoch' executed in 18.4392s
+Function 'one_epoch' executed in 17.8514s
+Function 'one_epoch' executed in 18.0099s
+Function 'one_epoch' executed in 18.9475s
+Function 'one_epoch' executed in 17.7873s
+Function 'one_epoch' executed in 18.5969s
+Accuracy of the network sandwich_2_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 91.11%
+Function 'one_epoch' executed in 31.7567s
+Function 'one_epoch' executed in 33.1765s
+Function 'one_epoch' executed in 29.2697s
+Function 'one_epoch' executed in 27.8195s
+Function 'one_epoch' executed in 26.1530s
+Function 'one_epoch' executed in 25.4296s
+Function 'one_epoch' executed in 25.3471s
+Function 'one_epoch' executed in 25.0434s
+Function 'one_epoch' executed in 25.5165s
+Accuracy of the network sandwich_3_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 28.14%
+Function 'one_epoch' executed in 26.7401s
+Function 'one_epoch' executed in 26.7121s
+Function 'one_epoch' executed in 27.0036s
+Function 'one_epoch' executed in 26.8128s
+Function 'one_epoch' executed in 26.7612s
+Function 'one_epoch' executed in 26.7027s
+Function 'one_epoch' executed in 26.7805s
+Function 'one_epoch' executed in 26.8767s
+Function 'one_epoch' executed in 26.8087s
+Accuracy of the network sandwich_3_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 19.7905s
+Function 'one_epoch' executed in 19.6642s
+Function 'one_epoch' executed in 19.3789s
+Function 'one_epoch' executed in 21.3666s
+Function 'one_epoch' executed in 23.7407s
+Function 'one_epoch' executed in 24.1093s
+Function 'one_epoch' executed in 23.8919s
+Function 'one_epoch' executed in 23.3877s
+Function 'one_epoch' executed in 23.1776s
+Accuracy of the network sandwich_3_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 84.34%
+Function 'one_epoch' executed in 20.0383s
+Function 'one_epoch' executed in 19.3435s
+Function 'one_epoch' executed in 18.7650s
+Function 'one_epoch' executed in 20.0212s
+Function 'one_epoch' executed in 19.7209s
+Function 'one_epoch' executed in 18.9486s
+Function 'one_epoch' executed in 19.7039s
+Function 'one_epoch' executed in 19.8889s
+Function 'one_epoch' executed in 18.9466s
+Accuracy of the network sandwich_3_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 90.96%
+Function 'one_epoch' executed in 32.2670s
+Function 'one_epoch' executed in 28.5232s
+Function 'one_epoch' executed in 29.9978s
+Function 'one_epoch' executed in 29.3343s
+Function 'one_epoch' executed in 29.7205s
+Function 'one_epoch' executed in 30.5105s
+Function 'one_epoch' executed in 30.4572s
+Function 'one_epoch' executed in 31.7113s
+Function 'one_epoch' executed in 30.7438s
+Accuracy of the network sandwich_4_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 31.4243s
+Function 'one_epoch' executed in 30.7989s
+Function 'one_epoch' executed in 30.7233s
+Function 'one_epoch' executed in 31.3332s
+Function 'one_epoch' executed in 30.7035s
+Function 'one_epoch' executed in 31.5992s
+Function 'one_epoch' executed in 30.7306s
+Function 'one_epoch' executed in 31.2780s
+Function 'one_epoch' executed in 31.0800s
+Accuracy of the network sandwich_4_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 19.9569s
+Function 'one_epoch' executed in 24.7300s
+Function 'one_epoch' executed in 27.1011s
+Function 'one_epoch' executed in 25.3412s
+Function 'one_epoch' executed in 24.0816s
+Function 'one_epoch' executed in 23.0456s
+Function 'one_epoch' executed in 22.3935s
+Function 'one_epoch' executed in 21.2962s
+Function 'one_epoch' executed in 21.0806s
+Accuracy of the network sandwich_4_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 55.54%
+Function 'one_epoch' executed in 20.2602s
+Function 'one_epoch' executed in 21.1502s
+Function 'one_epoch' executed in 21.0464s
+Function 'one_epoch' executed in 19.9138s
+Function 'one_epoch' executed in 19.9012s
+Function 'one_epoch' executed in 20.9010s
+Function 'one_epoch' executed in 21.1398s
+Function 'one_epoch' executed in 20.2414s
+Function 'one_epoch' executed in 19.7266s
+Accuracy of the network sandwich_4_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 91.62%
+Function 'one_epoch' executed in 35.3194s
+Function 'one_epoch' executed in 35.4817s
+Function 'one_epoch' executed in 35.4902s
+Function 'one_epoch' executed in 35.4201s
+Function 'one_epoch' executed in 35.5039s
+Function 'one_epoch' executed in 35.4399s
+Function 'one_epoch' executed in 34.9839s
+Function 'one_epoch' executed in 34.6428s
+Function 'one_epoch' executed in 34.2514s
+Accuracy of the network sandwich_5_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 32.3309s
+Function 'one_epoch' executed in 35.5253s
+Function 'one_epoch' executed in 35.4053s
+Function 'one_epoch' executed in 35.4884s
+Function 'one_epoch' executed in 35.4749s
+Function 'one_epoch' executed in 35.3693s
+Function 'one_epoch' executed in 35.1975s
+Function 'one_epoch' executed in 34.6836s
+Function 'one_epoch' executed in 34.3071s
+Accuracy of the network sandwich_5_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 23.5278s
+Function 'one_epoch' executed in 24.1792s
+Function 'one_epoch' executed in 21.2522s
+Function 'one_epoch' executed in 22.2930s
+Function 'one_epoch' executed in 22.4976s
+Function 'one_epoch' executed in 22.4351s
+Function 'one_epoch' executed in 22.7153s
+Function 'one_epoch' executed in 22.7039s
+Function 'one_epoch' executed in 23.1298s
+Accuracy of the network sandwich_5_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 21.0948s
+Function 'one_epoch' executed in 21.6994s
+Function 'one_epoch' executed in 22.0149s
+Function 'one_epoch' executed in 21.9761s
+Function 'one_epoch' executed in 21.6148s
+Function 'one_epoch' executed in 20.7006s
+Function 'one_epoch' executed in 20.9376s
+Function 'one_epoch' executed in 21.8067s
+Function 'one_epoch' executed in 22.0146s
+Accuracy of the network sandwich_5_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 90.55%
+Function 'one_epoch' executed in 39.1939s
+Function 'one_epoch' executed in 39.1784s
+Function 'one_epoch' executed in 39.2323s
+Function 'one_epoch' executed in 38.9828s
+Function 'one_epoch' executed in 39.1737s
+Function 'one_epoch' executed in 39.1023s
+Function 'one_epoch' executed in 38.8928s
+Function 'one_epoch' executed in 39.2650s
+Function 'one_epoch' executed in 39.2720s
+Accuracy of the network sandwich_6_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 11.35%
+Function 'one_epoch' executed in 38.8940s
+Function 'one_epoch' executed in 39.3092s
+Function 'one_epoch' executed in 39.0030s
+Function 'one_epoch' executed in 38.9915s
+Function 'one_epoch' executed in 39.2186s
+Function 'one_epoch' executed in 39.2863s
+Function 'one_epoch' executed in 39.1533s
+Function 'one_epoch' executed in 38.7200s
+Function 'one_epoch' executed in 39.1275s
+Accuracy of the network sandwich_6_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 25.6790s
+Function 'one_epoch' executed in 24.0457s
+Function 'one_epoch' executed in 25.2319s
+Function 'one_epoch' executed in 24.9718s
+Function 'one_epoch' executed in 24.7986s
+Function 'one_epoch' executed in 24.8421s
+Function 'one_epoch' executed in 24.7410s
+Function 'one_epoch' executed in 24.8782s
+Function 'one_epoch' executed in 25.0715s
+Accuracy of the network sandwich_6_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 11.35%
+Function 'one_epoch' executed in 23.0322s
+Function 'one_epoch' executed in 22.8148s
+Function 'one_epoch' executed in 23.2348s
+Function 'one_epoch' executed in 22.3916s
+Function 'one_epoch' executed in 21.8908s
+Function 'one_epoch' executed in 22.1209s
+Function 'one_epoch' executed in 22.0513s
+Function 'one_epoch' executed in 22.3704s
+Function 'one_epoch' executed in 22.2493s
+Accuracy of the network sandwich_6_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 90.06%
+Function 'one_epoch' executed in 43.7488s
+Function 'one_epoch' executed in 42.5695s
+Function 'one_epoch' executed in 42.6927s
+Function 'one_epoch' executed in 42.4776s
+Function 'one_epoch' executed in 42.9078s
+Function 'one_epoch' executed in 42.7361s
+Function 'one_epoch' executed in 42.9874s
+Function 'one_epoch' executed in 42.4384s
+Function 'one_epoch' executed in 42.8077s
+Accuracy of the network sandwich_7_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 11.35%
+Function 'one_epoch' executed in 42.4446s
+Function 'one_epoch' executed in 42.7860s
+Function 'one_epoch' executed in 42.8993s
+Function 'one_epoch' executed in 42.5884s
+Function 'one_epoch' executed in 43.0786s
+Function 'one_epoch' executed in 42.8782s
+Function 'one_epoch' executed in 43.2949s
+Function 'one_epoch' executed in 42.8046s
+Function 'one_epoch' executed in 43.4045s
+Accuracy of the network sandwich_7_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 25.5438s
+Function 'one_epoch' executed in 38.6172s
+Function 'one_epoch' executed in 34.2161s
+Function 'one_epoch' executed in 32.9808s
+Function 'one_epoch' executed in 28.3296s
+Function 'one_epoch' executed in 43.6279s
+Function 'one_epoch' executed in 34.0099s
+Function 'one_epoch' executed in 49.3520s
+Function 'one_epoch' executed in 44.5508s
+Accuracy of the network sandwich_7_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 24.0337s
+Function 'one_epoch' executed in 23.8751s
+Function 'one_epoch' executed in 24.0550s
+Function 'one_epoch' executed in 23.7248s
+Function 'one_epoch' executed in 23.6458s
+Function 'one_epoch' executed in 23.5444s
+Function 'one_epoch' executed in 23.4335s
+Function 'one_epoch' executed in 23.3366s
+Function 'one_epoch' executed in 22.7956s
+Accuracy of the network sandwich_7_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 90.53%
+Function 'one_epoch' executed in 47.4998s
+Function 'one_epoch' executed in 46.9981s
+Function 'one_epoch' executed in 47.6675s
+Function 'one_epoch' executed in 47.6442s
+Function 'one_epoch' executed in 47.4769s
+Function 'one_epoch' executed in 46.1613s
+Function 'one_epoch' executed in 46.4393s
+Function 'one_epoch' executed in 46.7505s
+Function 'one_epoch' executed in 47.8691s
+Accuracy of the network sandwich_8_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 46.8147s
+Function 'one_epoch' executed in 47.1804s
+Function 'one_epoch' executed in 46.2958s
+Function 'one_epoch' executed in 46.5519s
+Function 'one_epoch' executed in 47.2787s
+Function 'one_epoch' executed in 47.5539s
+Function 'one_epoch' executed in 47.6586s
+Function 'one_epoch' executed in 46.5524s
+Function 'one_epoch' executed in 46.2238s
+Accuracy of the network sandwich_8_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 25.5276s
+Function 'one_epoch' executed in 44.1426s
+Function 'one_epoch' executed in 40.1043s
+Function 'one_epoch' executed in 34.3528s
+Function 'one_epoch' executed in 53.5931s
+Function 'one_epoch' executed in 48.1801s
+Function 'one_epoch' executed in 55.6347s
+Function 'one_epoch' executed in 47.9819s
+Function 'one_epoch' executed in 36.7602s
+Accuracy of the network sandwich_8_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 10.32%
+Function 'one_epoch' executed in 24.4522s
+Function 'one_epoch' executed in 24.0871s
+Function 'one_epoch' executed in 24.9820s
+Function 'one_epoch' executed in 24.9908s
+Function 'one_epoch' executed in 24.9924s
+Function 'one_epoch' executed in 24.9270s
+Function 'one_epoch' executed in 24.9291s
+Function 'one_epoch' executed in 24.9889s
+Function 'one_epoch' executed in 25.0590s
+Accuracy of the network sandwich_8_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 90.30%
+Function 'one_epoch' executed in 17.7272s
+Function 'one_epoch' executed in 16.8142s
+Function 'one_epoch' executed in 17.7327s
+Function 'one_epoch' executed in 17.0423s
+Function 'one_epoch' executed in 17.6071s
+Function 'one_epoch' executed in 16.9372s
+Function 'one_epoch' executed in 17.5752s
+Function 'one_epoch' executed in 17.1589s
+Function 'one_epoch' executed in 16.9502s
+Accuracy of the network lasagne_1_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 91.11%
+Function 'one_epoch' executed in 16.9600s
+Function 'one_epoch' executed in 16.7713s
+Function 'one_epoch' executed in 16.9984s
+Function 'one_epoch' executed in 16.9345s
+Function 'one_epoch' executed in 17.1085s
+Function 'one_epoch' executed in 16.8476s
+Function 'one_epoch' executed in 17.5292s
+Function 'one_epoch' executed in 16.8294s
+Function 'one_epoch' executed in 17.3026s
+Accuracy of the network lasagne_1_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 48.71%
+Function 'one_epoch' executed in 17.0108s
+Function 'one_epoch' executed in 17.4691s
+Function 'one_epoch' executed in 16.8166s
+Function 'one_epoch' executed in 17.5489s
+Function 'one_epoch' executed in 16.9769s
+Function 'one_epoch' executed in 17.7667s
+Function 'one_epoch' executed in 17.1073s
+Function 'one_epoch' executed in 17.7894s
+Function 'one_epoch' executed in 16.8479s
+Accuracy of the network lasagne_1_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 91.16%
+Function 'one_epoch' executed in 17.9402s
+Function 'one_epoch' executed in 16.8483s
+Function 'one_epoch' executed in 18.2100s
+Function 'one_epoch' executed in 16.9931s
+Function 'one_epoch' executed in 18.0308s
+Function 'one_epoch' executed in 16.8624s
+Function 'one_epoch' executed in 18.0339s
+Function 'one_epoch' executed in 16.8135s
+Function 'one_epoch' executed in 17.7065s
+Accuracy of the network lasagne_1_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 19.34%
+Function 'one_epoch' executed in 21.2720s
+Function 'one_epoch' executed in 20.3962s
+Function 'one_epoch' executed in 20.5555s
+Function 'one_epoch' executed in 21.4017s
+Function 'one_epoch' executed in 21.3039s
+Function 'one_epoch' executed in 21.5580s
+Function 'one_epoch' executed in 21.1899s
+Function 'one_epoch' executed in 20.7558s
+Function 'one_epoch' executed in 20.8803s
+Accuracy of the network lasagne_2_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 96.94%
+Function 'one_epoch' executed in 22.3969s
+Function 'one_epoch' executed in 22.8272s
+Function 'one_epoch' executed in 22.6689s
+Function 'one_epoch' executed in 22.7291s
+Function 'one_epoch' executed in 22.6692s
+Function 'one_epoch' executed in 22.7395s
+Function 'one_epoch' executed in 22.7821s
+Function 'one_epoch' executed in 22.6137s
+Function 'one_epoch' executed in 21.8776s
+Accuracy of the network lasagne_2_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 69.61%
+Function 'one_epoch' executed in 17.7891s
+Function 'one_epoch' executed in 18.8283s
+Function 'one_epoch' executed in 17.9236s
+Function 'one_epoch' executed in 18.5304s
+Function 'one_epoch' executed in 17.8635s
+Function 'one_epoch' executed in 17.8557s
+Function 'one_epoch' executed in 18.6726s
+Function 'one_epoch' executed in 17.9060s
+Function 'one_epoch' executed in 18.8587s
+Accuracy of the network lasagne_2_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 95.82%
+Function 'one_epoch' executed in 18.1485s
+Function 'one_epoch' executed in 18.2014s
+Function 'one_epoch' executed in 19.1554s
+Function 'one_epoch' executed in 18.0707s
+Function 'one_epoch' executed in 18.7796s
+Function 'one_epoch' executed in 18.1161s
+Function 'one_epoch' executed in 17.9046s
+Function 'one_epoch' executed in 19.1478s
+Function 'one_epoch' executed in 17.9028s
+Accuracy of the network lasagne_2_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 78.44%
+Function 'one_epoch' executed in 23.7616s
+Function 'one_epoch' executed in 23.7261s
+Function 'one_epoch' executed in 23.4567s
+Function 'one_epoch' executed in 23.5753s
+Function 'one_epoch' executed in 24.2731s
+Function 'one_epoch' executed in 24.7603s
+Function 'one_epoch' executed in 25.0692s
+Function 'one_epoch' executed in 25.1880s
+Function 'one_epoch' executed in 25.7534s
+Accuracy of the network lasagne_3_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 96.54%
+Function 'one_epoch' executed in 26.6769s
+Function 'one_epoch' executed in 26.6621s
+Function 'one_epoch' executed in 26.7782s
+Function 'one_epoch' executed in 26.9131s
+Function 'one_epoch' executed in 26.5520s
+Function 'one_epoch' executed in 27.0276s
+Function 'one_epoch' executed in 26.8051s
+Function 'one_epoch' executed in 26.8443s
+Function 'one_epoch' executed in 27.3016s
+Accuracy of the network lasagne_3_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 97.28%
+Function 'one_epoch' executed in 18.9885s
+Function 'one_epoch' executed in 20.0551s
+Function 'one_epoch' executed in 19.6629s
+Function 'one_epoch' executed in 18.9715s
+Function 'one_epoch' executed in 19.8384s
+Function 'one_epoch' executed in 20.1994s
+Function 'one_epoch' executed in 18.9666s
+Function 'one_epoch' executed in 19.5359s
+Function 'one_epoch' executed in 20.0787s
+Accuracy of the network lasagne_3_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 96.48%
+Function 'one_epoch' executed in 19.8758s
+Function 'one_epoch' executed in 19.5958s
+Function 'one_epoch' executed in 20.4187s
+Function 'one_epoch' executed in 21.0520s
+Function 'one_epoch' executed in 19.9346s
+Function 'one_epoch' executed in 19.5677s
+Function 'one_epoch' executed in 20.3692s
+Function 'one_epoch' executed in 20.7190s
+Function 'one_epoch' executed in 20.0593s
+Accuracy of the network lasagne_3_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 77.53%
+Function 'one_epoch' executed in 27.1751s
+Function 'one_epoch' executed in 27.0162s
+Function 'one_epoch' executed in 27.2258s
+Function 'one_epoch' executed in 27.4839s
+Function 'one_epoch' executed in 27.6516s
+Function 'one_epoch' executed in 27.7731s
+Function 'one_epoch' executed in 28.6772s
+Function 'one_epoch' executed in 28.6304s
+Function 'one_epoch' executed in 30.3024s
+Accuracy of the network lasagne_4_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 94.67%
+Function 'one_epoch' executed in 31.2789s
+Function 'one_epoch' executed in 31.4360s
+Function 'one_epoch' executed in 31.7118s
+Function 'one_epoch' executed in 30.9251s
+Function 'one_epoch' executed in 31.9053s
+Function 'one_epoch' executed in 31.0616s
+Function 'one_epoch' executed in 30.9725s
+Function 'one_epoch' executed in 32.1034s
+Function 'one_epoch' executed in 31.0564s
+Accuracy of the network lasagne_4_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 78.39%
+Function 'one_epoch' executed in 20.9225s
+Function 'one_epoch' executed in 20.8588s
+Function 'one_epoch' executed in 20.6024s
+Function 'one_epoch' executed in 20.1980s
+Function 'one_epoch' executed in 20.4368s
+Function 'one_epoch' executed in 21.4129s
+Function 'one_epoch' executed in 21.2798s
+Function 'one_epoch' executed in 21.0042s
+Function 'one_epoch' executed in 20.4316s
+Accuracy of the network lasagne_4_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 95.58%
+Function 'one_epoch' executed in 20.9662s
+Function 'one_epoch' executed in 22.0483s
+Function 'one_epoch' executed in 21.7855s
+Function 'one_epoch' executed in 22.1641s
+Function 'one_epoch' executed in 22.1155s
+Function 'one_epoch' executed in 21.5384s
+Function 'one_epoch' executed in 21.1130s
+Function 'one_epoch' executed in 20.9800s
+Function 'one_epoch' executed in 21.7555s
+Accuracy of the network lasagne_4_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 78.72%
+Function 'one_epoch' executed in 30.9385s
+Function 'one_epoch' executed in 29.8825s
+Function 'one_epoch' executed in 31.4494s
+Function 'one_epoch' executed in 31.1414s
+Function 'one_epoch' executed in 31.7318s
+Function 'one_epoch' executed in 33.4932s
+Function 'one_epoch' executed in 33.9294s
+Function 'one_epoch' executed in 34.0530s
+Function 'one_epoch' executed in 34.3179s
+Accuracy of the network lasagne_5_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 92.18%
+Function 'one_epoch' executed in 36.9571s
+Function 'one_epoch' executed in 34.6177s
+Function 'one_epoch' executed in 34.7522s
+Function 'one_epoch' executed in 34.7839s
+Function 'one_epoch' executed in 35.1522s
+Function 'one_epoch' executed in 35.7961s
+Function 'one_epoch' executed in 35.6453s
+Function 'one_epoch' executed in 35.7417s
+Function 'one_epoch' executed in 35.4954s
+Accuracy of the network lasagne_5_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 22.1735s
+Function 'one_epoch' executed in 21.9105s
+Function 'one_epoch' executed in 21.2762s
+Function 'one_epoch' executed in 21.1162s
+Function 'one_epoch' executed in 21.7901s
+Function 'one_epoch' executed in 22.1694s
+Function 'one_epoch' executed in 22.2530s
+Function 'one_epoch' executed in 22.4618s
+Function 'one_epoch' executed in 22.5625s
+Accuracy of the network lasagne_5_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 56.66%
+Function 'one_epoch' executed in 23.2246s
+Function 'one_epoch' executed in 22.9450s
+Function 'one_epoch' executed in 23.2061s
+Function 'one_epoch' executed in 23.2183s
+Function 'one_epoch' executed in 23.6584s
+Function 'one_epoch' executed in 22.9032s
+Function 'one_epoch' executed in 22.8312s
+Function 'one_epoch' executed in 22.5914s
+Function 'one_epoch' executed in 22.5570s
+Accuracy of the network lasagne_5_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 97.83%
+Function 'one_epoch' executed in 32.4891s
+Function 'one_epoch' executed in 33.6459s
+Function 'one_epoch' executed in 34.9805s
+Function 'one_epoch' executed in 36.3990s
+Function 'one_epoch' executed in 37.5840s
+Function 'one_epoch' executed in 38.3075s
+Function 'one_epoch' executed in 39.2341s
+Function 'one_epoch' executed in 40.1261s
+Function 'one_epoch' executed in 40.9380s
+Accuracy of the network lasagne_6_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 84.31%
+Function 'one_epoch' executed in 41.2297s
+Function 'one_epoch' executed in 40.6125s
+Function 'one_epoch' executed in 40.5160s
+Function 'one_epoch' executed in 40.3478s
+Function 'one_epoch' executed in 40.3731s
+Function 'one_epoch' executed in 40.7598s
+Function 'one_epoch' executed in 40.6197s
+Function 'one_epoch' executed in 40.1959s
+Function 'one_epoch' executed in 40.7603s
+Accuracy of the network lasagne_6_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 70.20%
+Function 'one_epoch' executed in 23.1200s
+Function 'one_epoch' executed in 23.1978s
+Function 'one_epoch' executed in 23.3499s
+Function 'one_epoch' executed in 23.7855s
+Function 'one_epoch' executed in 23.6371s
+Function 'one_epoch' executed in 23.7696s
+Function 'one_epoch' executed in 23.7358s
+Function 'one_epoch' executed in 24.2192s
+Function 'one_epoch' executed in 23.9346s
+Accuracy of the network lasagne_6_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 54.52%
+Function 'one_epoch' executed in 24.9184s
+Function 'one_epoch' executed in 24.7427s
+Function 'one_epoch' executed in 24.8529s
+Function 'one_epoch' executed in 24.9057s
+Function 'one_epoch' executed in 24.2669s
+Function 'one_epoch' executed in 24.8792s
+Function 'one_epoch' executed in 24.7678s
+Function 'one_epoch' executed in 25.1704s
+Function 'one_epoch' executed in 24.8290s
+Accuracy of the network lasagne_6_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 68.12%
+Function 'one_epoch' executed in 35.8966s
+Function 'one_epoch' executed in 38.3511s
+Function 'one_epoch' executed in 44.2470s
+Function 'one_epoch' executed in 45.6701s
+Function 'one_epoch' executed in 48.8055s
+Function 'one_epoch' executed in 59.3457s
+Function 'one_epoch' executed in 93.9163s
+Function 'one_epoch' executed in 90.7216s
+Function 'one_epoch' executed in 90.8756s
+Accuracy of the network lasagne_7_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 11.35%
+Function 'one_epoch' executed in 47.4673s
+Function 'one_epoch' executed in 43.9973s
+Function 'one_epoch' executed in 42.7288s
+Function 'one_epoch' executed in 43.6826s
+Function 'one_epoch' executed in 42.9742s
+Function 'one_epoch' executed in 43.2038s
+Function 'one_epoch' executed in 43.0033s
+Function 'one_epoch' executed in 43.0765s
+Function 'one_epoch' executed in 42.8112s
+Accuracy of the network lasagne_7_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 23.5259s
+Function 'one_epoch' executed in 28.8516s
+Function 'one_epoch' executed in 26.1828s
+Function 'one_epoch' executed in 25.3614s
+Function 'one_epoch' executed in 25.2597s
+Function 'one_epoch' executed in 26.3134s
+Function 'one_epoch' executed in 26.5166s
+Function 'one_epoch' executed in 27.3118s
+Function 'one_epoch' executed in 28.1569s
+Accuracy of the network lasagne_7_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 20.56%
+Function 'one_epoch' executed in 26.3894s
+Function 'one_epoch' executed in 26.0609s
+Function 'one_epoch' executed in 26.2045s
+Function 'one_epoch' executed in 26.0937s
+Function 'one_epoch' executed in 26.0245s
+Function 'one_epoch' executed in 26.1633s
+Function 'one_epoch' executed in 26.3989s
+Function 'one_epoch' executed in 26.2524s
+Function 'one_epoch' executed in 26.2055s
+Accuracy of the network lasagne_7_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 50.18%
+Function 'one_epoch' executed in 38.8284s
+Function 'one_epoch' executed in 102.6723s
+Function 'one_epoch' executed in 95.3858s
+Function 'one_epoch' executed in 89.0126s
+Function 'one_epoch' executed in 82.2433s
+Function 'one_epoch' executed in 83.1398s
+Function 'one_epoch' executed in 75.5529s
+Function 'one_epoch' executed in 74.6262s
+Function 'one_epoch' executed in 74.2830s
+Accuracy of the network lasagne_8_lin_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 11.35%
+Function 'one_epoch' executed in 50.9285s
+Function 'one_epoch' executed in 49.4630s
+Function 'one_epoch' executed in 49.5339s
+Function 'one_epoch' executed in 49.3453s
+Function 'one_epoch' executed in 49.4696s
+Function 'one_epoch' executed in 49.4043s
+Function 'one_epoch' executed in 49.0301s
+Function 'one_epoch' executed in 49.2235s
+Function 'one_epoch' executed in 49.3511s
+Accuracy of the network lasagne_8_lin_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 94.84%
+Function 'one_epoch' executed in 25.1512s
+Function 'one_epoch' executed in 40.0712s
+Function 'one_epoch' executed in 43.2088s
+Function 'one_epoch' executed in 45.1446s
+Function 'one_epoch' executed in 48.2240s
+Function 'one_epoch' executed in 53.8212s
+Function 'one_epoch' executed in 54.5333s
+Function 'one_epoch' executed in 54.2132s
+Function 'one_epoch' executed in 54.0805s
+Accuracy of the network lasagne_8_exp_sig with 9 epochs and learning rate 0.002 on the 10000 test images: 11.35%
+Function 'one_epoch' executed in 28.2943s
+Function 'one_epoch' executed in 27.4452s
+Function 'one_epoch' executed in 27.5186s
+Function 'one_epoch' executed in 28.0433s
+Function 'one_epoch' executed in 27.5206s
+Function 'one_epoch' executed in 27.5900s
+Function 'one_epoch' executed in 28.1219s
+Function 'one_epoch' executed in 27.5799s
+Function 'one_epoch' executed in 27.5313s
+Accuracy of the network lasagne_8_exp_relu with 9 epochs and learning rate 0.002 on the 10000 test images: 88.28%
+Function 'one_epoch' executed in 17.4816s
+Function 'one_epoch' executed in 16.6487s
+Function 'one_epoch' executed in 17.5615s
+Function 'one_epoch' executed in 16.5911s
+Function 'one_epoch' executed in 17.5873s
+Function 'one_epoch' executed in 16.6925s
+Function 'one_epoch' executed in 17.6559s
+Function 'one_epoch' executed in 16.8108s
+Function 'one_epoch' executed in 17.5512s
+Accuracy of the network sandwich_1_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 90.72%
+Function 'one_epoch' executed in 16.7941s
+Function 'one_epoch' executed in 17.4870s
+Function 'one_epoch' executed in 16.7608s
+Function 'one_epoch' executed in 17.4714s
+Function 'one_epoch' executed in 16.9663s
+Function 'one_epoch' executed in 17.3522s
+Function 'one_epoch' executed in 16.8907s
+Function 'one_epoch' executed in 17.0415s
+Function 'one_epoch' executed in 17.0259s
+Accuracy of the network sandwich_1_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 28.58%
+Function 'one_epoch' executed in 16.9224s
+Function 'one_epoch' executed in 16.8285s
+Function 'one_epoch' executed in 16.8083s
+Function 'one_epoch' executed in 17.0201s
+Function 'one_epoch' executed in 16.8830s
+Function 'one_epoch' executed in 17.1030s
+Function 'one_epoch' executed in 16.7929s
+Function 'one_epoch' executed in 17.0119s
+Function 'one_epoch' executed in 16.8670s
+Accuracy of the network sandwich_1_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 90.96%
+Function 'one_epoch' executed in 17.2166s
+Function 'one_epoch' executed in 16.9972s
+Function 'one_epoch' executed in 17.5212s
+Function 'one_epoch' executed in 16.8946s
+Function 'one_epoch' executed in 17.4435s
+Function 'one_epoch' executed in 16.8357s
+Function 'one_epoch' executed in 17.7240s
+Function 'one_epoch' executed in 16.8217s
+Function 'one_epoch' executed in 17.7102s
+Accuracy of the network sandwich_1_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 47.14%
+Function 'one_epoch' executed in 20.3652s
+Function 'one_epoch' executed in 20.3133s
+Function 'one_epoch' executed in 21.2647s
+Function 'one_epoch' executed in 21.3929s
+Function 'one_epoch' executed in 21.4043s
+Function 'one_epoch' executed in 20.4687s
+Function 'one_epoch' executed in 20.4544s
+Function 'one_epoch' executed in 21.6732s
+Function 'one_epoch' executed in 22.1688s
+Accuracy of the network sandwich_2_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 88.25%
+Function 'one_epoch' executed in 21.1745s
+Function 'one_epoch' executed in 21.1147s
+Function 'one_epoch' executed in 20.3550s
+Function 'one_epoch' executed in 20.2448s
+Function 'one_epoch' executed in 21.1982s
+Function 'one_epoch' executed in 21.2408s
+Function 'one_epoch' executed in 21.1690s
+Function 'one_epoch' executed in 20.0967s
+Function 'one_epoch' executed in 20.2264s
+Accuracy of the network sandwich_2_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 74.08%
+Function 'one_epoch' executed in 18.9409s
+Function 'one_epoch' executed in 17.6453s
+Function 'one_epoch' executed in 17.7850s
+Function 'one_epoch' executed in 18.3592s
+Function 'one_epoch' executed in 17.7442s
+Function 'one_epoch' executed in 18.7650s
+Function 'one_epoch' executed in 17.8625s
+Function 'one_epoch' executed in 18.3553s
+Function 'one_epoch' executed in 17.6409s
+Accuracy of the network sandwich_2_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 90.45%
+Function 'one_epoch' executed in 17.6382s
+Function 'one_epoch' executed in 18.7190s
+Function 'one_epoch' executed in 17.6734s
+Function 'one_epoch' executed in 18.7250s
+Function 'one_epoch' executed in 17.4769s
+Function 'one_epoch' executed in 18.0213s
+Function 'one_epoch' executed in 17.9311s
+Function 'one_epoch' executed in 17.6139s
+Function 'one_epoch' executed in 18.7657s
+Accuracy of the network sandwich_2_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 91.62%
+Function 'one_epoch' executed in 24.1376s
+Function 'one_epoch' executed in 26.2686s
+Function 'one_epoch' executed in 38.9945s
+Function 'one_epoch' executed in 42.9661s
+Function 'one_epoch' executed in 39.8101s
+Function 'one_epoch' executed in 37.2057s
+Function 'one_epoch' executed in 35.1501s
+Function 'one_epoch' executed in 33.5000s
+Function 'one_epoch' executed in 31.3530s
+Accuracy of the network sandwich_3_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 72.36%
+Function 'one_epoch' executed in 23.7289s
+Function 'one_epoch' executed in 23.6834s
+Function 'one_epoch' executed in 23.5328s
+Function 'one_epoch' executed in 23.6087s
+Function 'one_epoch' executed in 23.1305s
+Function 'one_epoch' executed in 23.0808s
+Function 'one_epoch' executed in 23.2109s
+Function 'one_epoch' executed in 23.2459s
+Function 'one_epoch' executed in 23.3444s
+Accuracy of the network sandwich_3_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 91.90%
+Function 'one_epoch' executed in 18.6573s
+Function 'one_epoch' executed in 20.0025s
+Function 'one_epoch' executed in 19.5139s
+Function 'one_epoch' executed in 18.9927s
+Function 'one_epoch' executed in 19.7312s
+Function 'one_epoch' executed in 19.6547s
+Function 'one_epoch' executed in 19.0429s
+Function 'one_epoch' executed in 19.5851s
+Function 'one_epoch' executed in 19.9751s
+Accuracy of the network sandwich_3_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 87.92%
+Function 'one_epoch' executed in 18.7441s
+Function 'one_epoch' executed in 19.0219s
+Function 'one_epoch' executed in 19.9949s
+Function 'one_epoch' executed in 18.9353s
+Function 'one_epoch' executed in 18.8256s
+Function 'one_epoch' executed in 19.8722s
+Function 'one_epoch' executed in 19.2099s
+Function 'one_epoch' executed in 18.8478s
+Function 'one_epoch' executed in 20.1081s
+Accuracy of the network sandwich_3_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 91.59%
+Function 'one_epoch' executed in 36.8177s
+Function 'one_epoch' executed in 43.5601s
+Function 'one_epoch' executed in 34.5535s
+Function 'one_epoch' executed in 30.8161s
+Function 'one_epoch' executed in 30.1829s
+Function 'one_epoch' executed in 28.8601s
+Function 'one_epoch' executed in 28.6933s
+Function 'one_epoch' executed in 27.0925s
+Function 'one_epoch' executed in 28.5162s
+Accuracy of the network sandwich_4_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 26.5686s
+Function 'one_epoch' executed in 26.5876s
+Function 'one_epoch' executed in 26.5308s
+Function 'one_epoch' executed in 26.5316s
+Function 'one_epoch' executed in 26.6539s
+Function 'one_epoch' executed in 27.0344s
+Function 'one_epoch' executed in 26.6369s
+Function 'one_epoch' executed in 26.5352s
+Function 'one_epoch' executed in 26.7916s
+Accuracy of the network sandwich_4_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 90.63%
+Function 'one_epoch' executed in 19.9253s
+Function 'one_epoch' executed in 20.8711s
+Function 'one_epoch' executed in 20.7877s
+Function 'one_epoch' executed in 20.2985s
+Function 'one_epoch' executed in 21.0068s
+Function 'one_epoch' executed in 23.3710s
+Function 'one_epoch' executed in 25.4159s
+Function 'one_epoch' executed in 26.8447s
+Function 'one_epoch' executed in 27.3164s
+Accuracy of the network sandwich_4_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 81.46%
+Function 'one_epoch' executed in 21.2465s
+Function 'one_epoch' executed in 20.7950s
+Function 'one_epoch' executed in 19.9669s
+Function 'one_epoch' executed in 19.8635s
+Function 'one_epoch' executed in 20.8716s
+Function 'one_epoch' executed in 21.1169s
+Function 'one_epoch' executed in 20.5037s
+Function 'one_epoch' executed in 19.9127s
+Function 'one_epoch' executed in 20.4829s
+Accuracy of the network sandwich_4_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 91.43%
+Function 'one_epoch' executed in 37.3528s
+Function 'one_epoch' executed in 35.3079s
+Function 'one_epoch' executed in 35.2868s
+Function 'one_epoch' executed in 35.1877s
+Function 'one_epoch' executed in 35.4526s
+Function 'one_epoch' executed in 35.0205s
+Function 'one_epoch' executed in 34.4182s
+Function 'one_epoch' executed in 34.2697s
+Function 'one_epoch' executed in 34.1710s
+Accuracy of the network sandwich_5_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 29.8930s
+Function 'one_epoch' executed in 29.3224s
+Function 'one_epoch' executed in 30.0898s
+Function 'one_epoch' executed in 29.2747s
+Function 'one_epoch' executed in 30.1561s
+Function 'one_epoch' executed in 29.4335s
+Function 'one_epoch' executed in 30.3786s
+Function 'one_epoch' executed in 29.1890s
+Function 'one_epoch' executed in 30.1693s
+Accuracy of the network sandwich_5_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 91.15%
+Function 'one_epoch' executed in 21.0843s
+Function 'one_epoch' executed in 20.9984s
+Function 'one_epoch' executed in 24.8532s
+Function 'one_epoch' executed in 30.1252s
+Function 'one_epoch' executed in 31.5960s
+Function 'one_epoch' executed in 28.5619s
+Function 'one_epoch' executed in 27.2992s
+Function 'one_epoch' executed in 26.6480s
+Function 'one_epoch' executed in 25.9369s
+Accuracy of the network sandwich_5_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 61.13%
+Function 'one_epoch' executed in 21.8944s
+Function 'one_epoch' executed in 20.8987s
+Function 'one_epoch' executed in 20.8378s
+Function 'one_epoch' executed in 21.3718s
+Function 'one_epoch' executed in 22.0540s
+Function 'one_epoch' executed in 21.9189s
+Function 'one_epoch' executed in 22.0010s
+Function 'one_epoch' executed in 21.7616s
+Function 'one_epoch' executed in 20.8890s
+Accuracy of the network sandwich_5_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 91.70%
+Function 'one_epoch' executed in 35.7645s
+Function 'one_epoch' executed in 34.9126s
+Function 'one_epoch' executed in 39.0812s
+Function 'one_epoch' executed in 39.3312s
+Function 'one_epoch' executed in 39.1177s
+Function 'one_epoch' executed in 39.4673s
+Function 'one_epoch' executed in 39.1170s
+Function 'one_epoch' executed in 39.2090s
+Function 'one_epoch' executed in 39.4618s
+Accuracy of the network sandwich_6_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 11.35%
+Function 'one_epoch' executed in 33.2675s
+Function 'one_epoch' executed in 32.0911s
+Function 'one_epoch' executed in 31.9559s
+Function 'one_epoch' executed in 32.9398s
+Function 'one_epoch' executed in 32.1944s
+Function 'one_epoch' executed in 31.9986s
+Function 'one_epoch' executed in 33.1966s
+Function 'one_epoch' executed in 33.1142s
+Function 'one_epoch' executed in 32.0626s
+Accuracy of the network sandwich_6_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 90.92%
+Function 'one_epoch' executed in 21.9805s
+Function 'one_epoch' executed in 26.2443s
+Function 'one_epoch' executed in 32.6314s
+Function 'one_epoch' executed in 31.2785s
+Function 'one_epoch' executed in 28.4973s
+Function 'one_epoch' executed in 26.7833s
+Function 'one_epoch' executed in 25.9795s
+Function 'one_epoch' executed in 25.0830s
+Function 'one_epoch' executed in 24.8826s
+Accuracy of the network sandwich_6_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 26.38%
+Function 'one_epoch' executed in 23.0132s
+Function 'one_epoch' executed in 22.8105s
+Function 'one_epoch' executed in 22.8684s
+Function 'one_epoch' executed in 22.9031s
+Function 'one_epoch' executed in 23.5392s
+Function 'one_epoch' executed in 22.8005s
+Function 'one_epoch' executed in 22.9486s
+Function 'one_epoch' executed in 22.5401s
+Function 'one_epoch' executed in 22.2856s
+Accuracy of the network sandwich_6_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 90.86%
+Function 'one_epoch' executed in 41.3794s
+Function 'one_epoch' executed in 42.4903s
+Function 'one_epoch' executed in 42.4967s
+Function 'one_epoch' executed in 42.4217s
+Function 'one_epoch' executed in 42.4726s
+Function 'one_epoch' executed in 42.3268s
+Function 'one_epoch' executed in 42.2779s
+Function 'one_epoch' executed in 42.2436s
+Function 'one_epoch' executed in 42.6773s
+Accuracy of the network sandwich_7_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 10.10%
+Function 'one_epoch' executed in 35.6714s
+Function 'one_epoch' executed in 35.3786s
+Function 'one_epoch' executed in 35.3691s
+Function 'one_epoch' executed in 34.7912s
+Function 'one_epoch' executed in 34.5229s
+Function 'one_epoch' executed in 34.2728s
+Function 'one_epoch' executed in 34.4222s
+Function 'one_epoch' executed in 34.8526s
+Function 'one_epoch' executed in 35.4920s
+Accuracy of the network sandwich_7_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 89.11%
+Function 'one_epoch' executed in 26.4596s
+Function 'one_epoch' executed in 33.4338s
+Function 'one_epoch' executed in 26.9124s
+Function 'one_epoch' executed in 23.5491s
+Function 'one_epoch' executed in 27.3531s
+Function 'one_epoch' executed in 26.0943s
+Function 'one_epoch' executed in 26.0318s
+Function 'one_epoch' executed in 26.1989s
+Function 'one_epoch' executed in 26.1306s
+Accuracy of the network sandwich_7_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 10.28%
+Function 'one_epoch' executed in 23.7594s
+Function 'one_epoch' executed in 23.8723s
+Function 'one_epoch' executed in 23.8355s
+Function 'one_epoch' executed in 23.8647s
+Function 'one_epoch' executed in 23.7858s
+Function 'one_epoch' executed in 23.6753s
+Function 'one_epoch' executed in 23.8025s
+Function 'one_epoch' executed in 23.6193s
+Function 'one_epoch' executed in 23.8452s
+Accuracy of the network sandwich_7_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 90.47%
+Function 'one_epoch' executed in 45.9882s
+Function 'one_epoch' executed in 46.3056s
+Function 'one_epoch' executed in 46.8220s
+Function 'one_epoch' executed in 47.4181s
+Function 'one_epoch' executed in 47.4503s
+Function 'one_epoch' executed in 47.7360s
+Function 'one_epoch' executed in 46.5111s
+Function 'one_epoch' executed in 46.1825s
+Function 'one_epoch' executed in 46.8132s
+Accuracy of the network sandwich_8_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 9.80%
+Function 'one_epoch' executed in 38.3369s
+Function 'one_epoch' executed in 37.9909s
+Function 'one_epoch' executed in 37.7129s
+Function 'one_epoch' executed in 38.2409s
+Function 'one_epoch' executed in 38.4503s
+Function 'one_epoch' executed in 38.2125s
+Function 'one_epoch' executed in 38.2324s
+Function 'one_epoch' executed in 38.4403s
+Function 'one_epoch' executed in 37.3059s
+Accuracy of the network sandwich_8_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 91.03%
+Function 'one_epoch' executed in 29.9337s
+Function 'one_epoch' executed in 30.0582s
+Function 'one_epoch' executed in 27.8627s
+Function 'one_epoch' executed in 27.6231s
+Function 'one_epoch' executed in 28.6407s
+Function 'one_epoch' executed in 27.6175s
+Function 'one_epoch' executed in 27.8015s
+Function 'one_epoch' executed in 28.5379s
+Function 'one_epoch' executed in 27.6025s
+Accuracy of the network sandwich_8_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 10.32%
+Function 'one_epoch' executed in 25.2045s
+Function 'one_epoch' executed in 24.8487s
+Function 'one_epoch' executed in 24.8461s
+Function 'one_epoch' executed in 24.6400s
+Function 'one_epoch' executed in 24.3343s
+Function 'one_epoch' executed in 25.0585s
+Function 'one_epoch' executed in 25.0101s
+Function 'one_epoch' executed in 24.9879s
+Function 'one_epoch' executed in 25.0379s
+Accuracy of the network sandwich_8_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 90.65%
+Function 'one_epoch' executed in 17.2814s
+Function 'one_epoch' executed in 17.1238s
+Function 'one_epoch' executed in 17.3648s
+Function 'one_epoch' executed in 16.7225s
+Function 'one_epoch' executed in 17.3150s
+Function 'one_epoch' executed in 16.8310s
+Function 'one_epoch' executed in 17.4129s
+Function 'one_epoch' executed in 16.8121s
+Function 'one_epoch' executed in 17.4669s
+Accuracy of the network lasagne_1_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 91.17%
+Function 'one_epoch' executed in 16.7320s
+Function 'one_epoch' executed in 17.6609s
+Function 'one_epoch' executed in 16.8187s
+Function 'one_epoch' executed in 17.4968s
+Function 'one_epoch' executed in 16.7829s
+Function 'one_epoch' executed in 17.6082s
+Function 'one_epoch' executed in 16.6771s
+Function 'one_epoch' executed in 17.7234s
+Function 'one_epoch' executed in 16.7788s
+Accuracy of the network lasagne_1_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 73.58%
+Function 'one_epoch' executed in 17.8483s
+Function 'one_epoch' executed in 16.7306s
+Function 'one_epoch' executed in 17.8482s
+Function 'one_epoch' executed in 16.6348s
+Function 'one_epoch' executed in 17.5974s
+Function 'one_epoch' executed in 16.6214s
+Function 'one_epoch' executed in 17.8364s
+Function 'one_epoch' executed in 16.7624s
+Function 'one_epoch' executed in 17.4274s
+Accuracy of the network lasagne_1_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 90.64%
+Function 'one_epoch' executed in 17.1475s
+Function 'one_epoch' executed in 17.5014s
+Function 'one_epoch' executed in 16.8529s
+Function 'one_epoch' executed in 17.6518s
+Function 'one_epoch' executed in 16.9780s
+Function 'one_epoch' executed in 17.9467s
+Function 'one_epoch' executed in 16.8998s
+Function 'one_epoch' executed in 17.7510s
+Function 'one_epoch' executed in 16.8277s
+Accuracy of the network lasagne_1_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 71.83%
+Function 'one_epoch' executed in 21.4688s
+Function 'one_epoch' executed in 21.1851s
+Function 'one_epoch' executed in 21.1123s
+Function 'one_epoch' executed in 20.3885s
+Function 'one_epoch' executed in 20.4988s
+Function 'one_epoch' executed in 21.4419s
+Function 'one_epoch' executed in 21.1671s
+Function 'one_epoch' executed in 21.2707s
+Function 'one_epoch' executed in 20.3119s
+Accuracy of the network lasagne_2_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 97.07%
+Function 'one_epoch' executed in 21.2666s
+Function 'one_epoch' executed in 21.7781s
+Function 'one_epoch' executed in 22.2291s
+Function 'one_epoch' executed in 22.1706s
+Function 'one_epoch' executed in 22.3004s
+Function 'one_epoch' executed in 22.4449s
+Function 'one_epoch' executed in 22.3332s
+Function 'one_epoch' executed in 21.7986s
+Function 'one_epoch' executed in 21.3344s
+Accuracy of the network lasagne_2_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 40.15%
+Function 'one_epoch' executed in 17.8074s
+Function 'one_epoch' executed in 18.3687s
+Function 'one_epoch' executed in 17.7982s
+Function 'one_epoch' executed in 18.6342s
+Function 'one_epoch' executed in 17.6615s
+Function 'one_epoch' executed in 18.5856s
+Function 'one_epoch' executed in 17.8033s
+Function 'one_epoch' executed in 17.6693s
+Function 'one_epoch' executed in 18.8948s
+Accuracy of the network lasagne_2_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 95.73%
+Function 'one_epoch' executed in 17.9743s
+Function 'one_epoch' executed in 19.0529s
+Function 'one_epoch' executed in 17.7282s
+Function 'one_epoch' executed in 17.9969s
+Function 'one_epoch' executed in 19.0190s
+Function 'one_epoch' executed in 17.8426s
+Function 'one_epoch' executed in 18.7461s
+Function 'one_epoch' executed in 17.7564s
+Function 'one_epoch' executed in 17.7785s
+Accuracy of the network lasagne_2_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 75.94%
+Function 'one_epoch' executed in 24.2378s
+Function 'one_epoch' executed in 24.1094s
+Function 'one_epoch' executed in 24.2212s
+Function 'one_epoch' executed in 24.1578s
+Function 'one_epoch' executed in 24.0917s
+Function 'one_epoch' executed in 23.9969s
+Function 'one_epoch' executed in 23.8137s
+Function 'one_epoch' executed in 23.7846s
+Function 'one_epoch' executed in 23.3847s
+Accuracy of the network lasagne_3_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 97.52%
+Function 'one_epoch' executed in 26.3590s
+Function 'one_epoch' executed in 26.6961s
+Function 'one_epoch' executed in 26.7743s
+Function 'one_epoch' executed in 26.7986s
+Function 'one_epoch' executed in 27.0577s
+Function 'one_epoch' executed in 26.7531s
+Function 'one_epoch' executed in 26.6422s
+Function 'one_epoch' executed in 26.6378s
+Function 'one_epoch' executed in 26.6913s
+Accuracy of the network lasagne_3_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 59.37%
+Function 'one_epoch' executed in 19.2840s
+Function 'one_epoch' executed in 18.9873s
+Function 'one_epoch' executed in 19.9494s
+Function 'one_epoch' executed in 18.9588s
+Function 'one_epoch' executed in 18.8402s
+Function 'one_epoch' executed in 19.8533s
+Function 'one_epoch' executed in 19.2971s
+Function 'one_epoch' executed in 18.7688s
+Function 'one_epoch' executed in 19.9733s
+Accuracy of the network lasagne_3_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 96.56%
+Function 'one_epoch' executed in 20.3269s
+Function 'one_epoch' executed in 19.3263s
+Function 'one_epoch' executed in 19.9228s
+Function 'one_epoch' executed in 20.3711s
+Function 'one_epoch' executed in 19.7037s
+Function 'one_epoch' executed in 19.2205s
+Function 'one_epoch' executed in 20.4548s
+Function 'one_epoch' executed in 20.6696s
+Function 'one_epoch' executed in 19.3920s
+Accuracy of the network lasagne_3_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 68.71%
+Function 'one_epoch' executed in 26.8543s
+Function 'one_epoch' executed in 26.7442s
+Function 'one_epoch' executed in 27.0367s
+Function 'one_epoch' executed in 27.2480s
+Function 'one_epoch' executed in 26.8280s
+Function 'one_epoch' executed in 27.0653s
+Function 'one_epoch' executed in 26.8358s
+Function 'one_epoch' executed in 26.9684s
+Function 'one_epoch' executed in 26.7851s
+Accuracy of the network lasagne_4_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 96.83%
+Function 'one_epoch' executed in 30.5105s
+Function 'one_epoch' executed in 30.2159s
+Function 'one_epoch' executed in 31.1395s
+Function 'one_epoch' executed in 30.3447s
+Function 'one_epoch' executed in 31.4515s
+Function 'one_epoch' executed in 30.6649s
+Function 'one_epoch' executed in 30.8050s
+Function 'one_epoch' executed in 30.3351s
+Function 'one_epoch' executed in 30.5079s
+Accuracy of the network lasagne_4_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 58.31%
+Function 'one_epoch' executed in 20.8573s
+Function 'one_epoch' executed in 20.2076s
+Function 'one_epoch' executed in 19.9933s
+Function 'one_epoch' executed in 20.5008s
+Function 'one_epoch' executed in 21.0318s
+Function 'one_epoch' executed in 20.9252s
+Function 'one_epoch' executed in 19.9880s
+Function 'one_epoch' executed in 20.0127s
+Function 'one_epoch' executed in 21.1816s
+Accuracy of the network lasagne_4_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 72.04%
+Function 'one_epoch' executed in 21.9207s
+Function 'one_epoch' executed in 21.5699s
+Function 'one_epoch' executed in 20.7605s
+Function 'one_epoch' executed in 20.6730s
+Function 'one_epoch' executed in 21.0425s
+Function 'one_epoch' executed in 21.7958s
+Function 'one_epoch' executed in 21.8535s
+Function 'one_epoch' executed in 21.6738s
+Function 'one_epoch' executed in 20.9530s
+Accuracy of the network lasagne_4_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 69.18%
+Function 'one_epoch' executed in 29.6555s
+Function 'one_epoch' executed in 30.4866s
+Function 'one_epoch' executed in 29.6122s
+Function 'one_epoch' executed in 30.0650s
+Function 'one_epoch' executed in 29.5892s
+Function 'one_epoch' executed in 30.1340s
+Function 'one_epoch' executed in 29.5265s
+Function 'one_epoch' executed in 30.3980s
+Function 'one_epoch' executed in 29.5547s
+Accuracy of the network lasagne_5_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 95.30%
+Function 'one_epoch' executed in 35.2298s
+Function 'one_epoch' executed in 35.5608s
+Function 'one_epoch' executed in 35.5297s
+Function 'one_epoch' executed in 35.7976s
+Function 'one_epoch' executed in 35.4922s
+Function 'one_epoch' executed in 34.9473s
+Function 'one_epoch' executed in 34.2699s
+Function 'one_epoch' executed in 34.0300s
+Function 'one_epoch' executed in 34.5381s
+Accuracy of the network lasagne_5_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 39.32%
+Function 'one_epoch' executed in 21.9177s
+Function 'one_epoch' executed in 22.1302s
+Function 'one_epoch' executed in 21.7680s
+Function 'one_epoch' executed in 22.0367s
+Function 'one_epoch' executed in 21.5597s
+Function 'one_epoch' executed in 21.1155s
+Function 'one_epoch' executed in 20.8101s
+Function 'one_epoch' executed in 21.6716s
+Function 'one_epoch' executed in 21.9872s
+Accuracy of the network lasagne_5_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 67.67%
+Function 'one_epoch' executed in 23.2502s
+Function 'one_epoch' executed in 23.0078s
+Function 'one_epoch' executed in 22.9713s
+Function 'one_epoch' executed in 22.8189s
+Function 'one_epoch' executed in 23.2613s
+Function 'one_epoch' executed in 23.3864s
+Function 'one_epoch' executed in 23.2702s
+Function 'one_epoch' executed in 23.1752s
+Function 'one_epoch' executed in 22.8106s
+Accuracy of the network lasagne_5_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 59.40%
+Function 'one_epoch' executed in 32.2179s
+Function 'one_epoch' executed in 32.9258s
+Function 'one_epoch' executed in 33.2881s
+Function 'one_epoch' executed in 32.6186s
+Function 'one_epoch' executed in 32.4651s
+Function 'one_epoch' executed in 33.1607s
+Function 'one_epoch' executed in 33.6229s
+Function 'one_epoch' executed in 32.8620s
+Function 'one_epoch' executed in 32.4721s
+Accuracy of the network lasagne_6_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 92.11%
+Function 'one_epoch' executed in 40.2884s
+Function 'one_epoch' executed in 39.9620s
+Function 'one_epoch' executed in 39.6578s
+Function 'one_epoch' executed in 39.4375s
+Function 'one_epoch' executed in 39.8285s
+Function 'one_epoch' executed in 39.4410s
+Function 'one_epoch' executed in 39.1872s
+Function 'one_epoch' executed in 39.6179s
+Function 'one_epoch' executed in 39.3761s
+Accuracy of the network lasagne_6_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 69.55%
+Function 'one_epoch' executed in 22.3152s
+Function 'one_epoch' executed in 22.6798s
+Function 'one_epoch' executed in 21.9823s
+Function 'one_epoch' executed in 21.9275s
+Function 'one_epoch' executed in 22.3074s
+Function 'one_epoch' executed in 22.7671s
+Function 'one_epoch' executed in 22.5745s
+Function 'one_epoch' executed in 22.9285s
+Function 'one_epoch' executed in 23.1486s
+Accuracy of the network lasagne_6_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 38.47%
+Function 'one_epoch' executed in 24.7039s
+Function 'one_epoch' executed in 24.3386s
+Function 'one_epoch' executed in 23.6180s
+Function 'one_epoch' executed in 23.6317s
+Function 'one_epoch' executed in 24.0751s
+Function 'one_epoch' executed in 24.6982s
+Function 'one_epoch' executed in 24.5091s
+Function 'one_epoch' executed in 24.6034s
+Function 'one_epoch' executed in 24.7052s
+Accuracy of the network lasagne_6_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 87.69%
+Function 'one_epoch' executed in 36.0958s
+Function 'one_epoch' executed in 36.1521s
+Function 'one_epoch' executed in 35.9375s
+Function 'one_epoch' executed in 35.9206s
+Function 'one_epoch' executed in 36.0019s
+Function 'one_epoch' executed in 35.8267s
+Function 'one_epoch' executed in 36.0816s
+Function 'one_epoch' executed in 36.6281s
+Function 'one_epoch' executed in 36.6925s
+Accuracy of the network lasagne_7_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 44.49%
+Function 'one_epoch' executed in 44.6216s
+Function 'one_epoch' executed in 44.1722s
+Function 'one_epoch' executed in 43.7433s
+Function 'one_epoch' executed in 43.2874s
+Function 'one_epoch' executed in 44.4485s
+Function 'one_epoch' executed in 43.1740s
+Function 'one_epoch' executed in 44.1310s
+Function 'one_epoch' executed in 42.9421s
+Function 'one_epoch' executed in 43.8287s
+Accuracy of the network lasagne_7_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 38.22%
+Function 'one_epoch' executed in 24.1691s
+Function 'one_epoch' executed in 23.9693s
+Function 'one_epoch' executed in 24.1706s
+Function 'one_epoch' executed in 24.1251s
+Function 'one_epoch' executed in 24.2173s
+Function 'one_epoch' executed in 24.3432s
+Function 'one_epoch' executed in 24.3249s
+Function 'one_epoch' executed in 24.4712s
+Function 'one_epoch' executed in 24.4844s
+Accuracy of the network lasagne_7_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 20.05%
+Function 'one_epoch' executed in 26.0738s
+Function 'one_epoch' executed in 25.7495s
+Function 'one_epoch' executed in 25.9342s
+Function 'one_epoch' executed in 26.1331s
+Function 'one_epoch' executed in 25.9946s
+Function 'one_epoch' executed in 25.8189s
+Function 'one_epoch' executed in 25.9441s
+Function 'one_epoch' executed in 25.9477s
+Function 'one_epoch' executed in 26.1293s
+Accuracy of the network lasagne_7_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 77.77%
+Function 'one_epoch' executed in 38.7964s
+Function 'one_epoch' executed in 55.2311s
+Function 'one_epoch' executed in 58.5251s
+Function 'one_epoch' executed in 59.8365s
+Function 'one_epoch' executed in 53.0586s
+Function 'one_epoch' executed in 51.9219s
+Function 'one_epoch' executed in 53.0752s
+Function 'one_epoch' executed in 52.8495s
+Function 'one_epoch' executed in 39.5425s
+Accuracy of the network lasagne_8_lin_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 20.97%
+Function 'one_epoch' executed in 49.0252s
+Function 'one_epoch' executed in 48.3870s
+Function 'one_epoch' executed in 47.5758s
+Function 'one_epoch' executed in 46.9538s
+Function 'one_epoch' executed in 46.8956s
+Function 'one_epoch' executed in 47.3786s
+Function 'one_epoch' executed in 48.0014s
+Function 'one_epoch' executed in 48.4787s
+Function 'one_epoch' executed in 48.6848s
+Accuracy of the network lasagne_8_lin_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 76.57%
+Function 'one_epoch' executed in 25.3589s
+Function 'one_epoch' executed in 25.4296s
+Function 'one_epoch' executed in 25.3003s
+Function 'one_epoch' executed in 24.9263s
+Function 'one_epoch' executed in 25.5285s
+Function 'one_epoch' executed in 25.6089s
+Function 'one_epoch' executed in 25.6661s
+Function 'one_epoch' executed in 25.8418s
+Function 'one_epoch' executed in 25.5300s
+Accuracy of the network lasagne_8_exp_sig with 9 epochs and learning rate 0.001 on the 10000 test images: 20.17%
+Function 'one_epoch' executed in 28.3170s
+Function 'one_epoch' executed in 27.2767s
+Function 'one_epoch' executed in 27.2953s
+Function 'one_epoch' executed in 27.5815s
+Function 'one_epoch' executed in 27.3812s
+Function 'one_epoch' executed in 27.2094s
+Function 'one_epoch' executed in 27.4662s
+Function 'one_epoch' executed in 27.4141s
+Function 'one_epoch' executed in 27.5971s
+Accuracy of the network lasagne_8_exp_relu with 9 epochs and learning rate 0.001 on the 10000 test images: 68.72%
+Function 'one_epoch' executed in 17.7273s
+Function 'one_epoch' executed in 16.7844s
+Function 'one_epoch' executed in 18.0881s
+Function 'one_epoch' executed in 16.7923s
+Function 'one_epoch' executed in 17.8704s
+Function 'one_epoch' executed in 16.9131s
+Function 'one_epoch' executed in 17.7593s
+Function 'one_epoch' executed in 16.8446s
+Function 'one_epoch' executed in 17.7023s
+Accuracy of the network sandwich_1_lin_sig with 9 epochs and learning rate 0.0005 on the 10000 test images: 90.76%
+Function 'one_epoch' executed in 16.8178s
+Function 'one_epoch' executed in 17.8617s
+Function 'one_epoch' executed in 16.7930s
+Function 'one_epoch' executed in 17.8004s
+Function 'one_epoch' executed in 16.9377s
+Function 'one_epoch' executed in 17.7499s
+Function 'one_epoch' executed in 16.7708s
+Function 'one_epoch' executed in 17.6958s
+Function 'one_epoch' executed in 16.8929s
+Accuracy of the network sandwich_1_lin_relu with 9 epochs and learning rate 0.0005 on the 10000 test images: 45.84%
+Function 'one_epoch' executed in 17.6096s
+Function 'one_epoch' executed in 16.6907s
+Function 'one_epoch' executed in 17.6256s
+Function 'one_epoch' executed in 16.5843s
+Function 'one_epoch' executed in 17.7148s
+Function 'one_epoch' executed in 16.9147s
+Function 'one_epoch' executed in 17.6107s
+Function 'one_epoch' executed in 16.7560s
+Function 'one_epoch' executed in 17.6158s
+Accuracy of the network sandwich_1_exp_sig with 9 epochs and learning rate 0.0005 on the 10000 test images: 90.77%
+Function 'one_epoch' executed in 16.8498s
+Function 'one_epoch' executed in 17.7245s
+Function 'one_epoch' executed in 16.8776s
+Function 'one_epoch' executed in 17.5530s
+Function 'one_epoch' executed in 16.9471s
+Function 'one_epoch' executed in 17.5166s
+Function 'one_epoch' executed in 16.8205s
+Function 'one_epoch' executed in 17.6782s
+Function 'one_epoch' executed in 16.8201s
+Accuracy of the network sandwich_1_exp_relu with 9 epochs and learning rate 0.0005 on the 10000 test images: 37.79%
+Function 'one_epoch' executed in 20.8903s
+Function 'one_epoch' executed in 21.1982s
+Function 'one_epoch' executed in 21.3343s
+Function 'one_epoch' executed in 20.5768s
+Function 'one_epoch' executed in 20.2385s
+Function 'one_epoch' executed in 20.9394s
+Function 'one_epoch' executed in 21.2490s
+Function 'one_epoch' executed in 21.4009s
+Function 'one_epoch' executed in 20.2645s
+Accuracy of the network sandwich_2_lin_sig with 9 epochs and learning rate 0.0005 on the 10000 test images: 90.72%
+Function 'one_epoch' executed in 20.5198s
+Function 'one_epoch' executed in 20.8564s
+Function 'one_epoch' executed in 21.1835s
+Function 'one_epoch' executed in 21.3471s
+Function 'one_epoch' executed in 20.5632s
+Function 'one_epoch' executed in 20.1705s
+Function 'one_epoch' executed in 20.8531s
+Function 'one_epoch' executed in 21.3569s
+Function 'one_epoch' executed in 21.2559s
+Accuracy of the network sandwich_2_lin_relu with 9 epochs and learning rate 0.0005 on the 10000 test images: 46.48%
+Function 'one_epoch' executed in 17.6576s
+Function 'one_epoch' executed in 18.2568s
+Function 'one_epoch' executed in 17.6438s
+Function 'one_epoch' executed in 17.7060s
+Function 'one_epoch' executed in 18.7630s
+Function 'one_epoch' executed in 17.6470s
+Function 'one_epoch' executed in 18.6411s
+Function 'one_epoch' executed in 17.5151s
+Function 'one_epoch' executed in 18.2587s
+Accuracy of the network sandwich_2_exp_sig with 9 epochs and learning rate 0.0005 on the 10000 test images: 91.40%
+Function 'one_epoch' executed in 18.0123s
+Function 'one_epoch' executed in 17.4128s
+Function 'one_epoch' executed in 18.8396s
+Function 'one_epoch' executed in 17.7786s
+Function 'one_epoch' executed in 18.7037s
+Function 'one_epoch' executed in 17.7030s
+Function 'one_epoch' executed in 18.1850s
+Function 'one_epoch' executed in 18.1149s
+Function 'one_epoch' executed in 17.5989s
+Accuracy of the network sandwich_2_exp_relu with 9 epochs and learning rate 0.0005 on the 10000 test images: 91.12%
+Function 'one_epoch' executed in 23.8141s
+Function 'one_epoch' executed in 23.9096s
+Function 'one_epoch' executed in 24.1157s
+Function 'one_epoch' executed in 24.2323s
+Function 'one_epoch' executed in 24.4894s
+Function 'one_epoch' executed in 26.2001s
+Function 'one_epoch' executed in 28.5407s
+Function 'one_epoch' executed in 32.8154s
+Function 'one_epoch' executed in 35.8535s
+Accuracy of the network sandwich_3_lin_sig with 9 epochs and learning rate 0.0005 on the 10000 test images: 86.21%
+Function 'one_epoch' executed in 23.9450s
+Function 'one_epoch' executed in 23.9051s
+Function 'one_epoch' executed in 23.7691s
+Function 'one_epoch' executed in 23.7821s
+Function 'one_epoch' executed in 23.8049s
+Function 'one_epoch' executed in 23.9775s
+Function 'one_epoch' executed in 24.1247s
+Function 'one_epoch' executed in 23.9259s
+Function 'one_epoch' executed in 23.7742s
+Accuracy of the network sandwich_3_lin_relu with 9 epochs and learning rate 0.0005 on the 10000 test images: 91.97%
+Function 'one_epoch' executed in 18.9695s
+Function 'one_epoch' executed in 18.7843s
+Function 'one_epoch' executed in 19.8778s
+Function 'one_epoch' executed in 19.1379s
+Function 'one_epoch' executed in 18.8191s
+Function 'one_epoch' executed in 19.8400s
+Function 'one_epoch' executed in 19.8146s
+Function 'one_epoch' executed in 18.8518s
+Function 'one_epoch' executed in 19.6372s
+Accuracy of the network sandwich_3_exp_sig with 9 epochs and learning rate 0.0005 on the 10000 test images: 90.34%
+Function 'one_epoch' executed in 19.5027s

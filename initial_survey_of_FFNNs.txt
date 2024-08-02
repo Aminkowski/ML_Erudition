@@ -1,0 +1,100 @@
+features implemented:
+* make show have a variable for convenience
+* timer
+* prime factors (though no implementation yet)
+* made a helper(?) function that determines the dimensions of the linear / FC layers
+	* this function also has a choice between linear and exponential dropoff
+
+things to do:
+* further experimentation with lr, epoch count, number of layers, activation functions and dropoffs
+	* figure out what's up with the sudden dropoff when the computation gets too heavy. 
+		* what's the threshold? how do I measure it?
+	* also with different optimizers and loss functions
+	* and with different compositions of layers obviously (FNNF, FNFN, sig and relu mix, ...)
+	* and batches....
+* better the placement of timer and optimize the training architecture for clarity and efficiency
+* just do the coprimeness thing for the heck of it...
+* test out some of the more promising nonsense 
+	* like a linear layer which goes to a higher dimension
+	* or the FNNF that I already did (but more)
+**** most important **** improve output format so I can track my findings ffs
+time taken, accuracy, name, trajectory (number of epochs), learningrate, number of layers, FNNF vs FNFN, activationfunction, dropoff, 
+
+for sig_exp_5:
+#Function 'train' executed in 108.0660s
+  #Accuracy of the network exp_5 on the 10000 test images: 69.30%
+  #Function 'train' executed in 106.2450s
+  #Accuracy of the network exp_5 on the 10000 test images: 79.57%
+    #Function 'train' executed in 106.6170s
+    #Accuracy of the network exp_5 on the 10000 test images: 48.10%
+    #Function 'train' executed in 104.1905s
+    #Accuracy of the network exp_5 on the 10000 test images: 48.95%
+    #Function 'train' executed in 105.0628s
+    #Accuracy of the network exp_5 on the 10000 test images: 46.76%
+
+for FNNF_sig_exp_5:
+  #Function 'train' executed in 125.7017s
+  #Accuracy of the network exp_5_nosig on the 10000 test images: 64.94%
+  #Function 'train' executed in 127.4869s
+  #Accuracy of the network exp_5_nosig on the 10000 test images: 61.26%
+
+for sig_lin_5:
+  #Function 'train' executed in 147.8658s
+  #Accuracy of the network lin_5 on the 10000 test images: 85.19%
+  #Function 'train' executed in 147.6495s
+  #Accuracy of the network lin_5 on the 10000 test images: 94.94%
+    #Function 'train' executed in 145.9760s
+    #Accuracy of the network lin_5 on the 10000 test images: 89.70%
+    #Function 'train' executed in 149.3474s
+    #Accuracy of the network lin_5 on the 10000 test images: 95.63%
+    #Function 'train' executed in 145.6613s
+    #Accuracy of the network lin_5 on the 10000 test images: 95.21%
+
+for FNNF_sig_lin_5:
+  #Function 'train' executed in 212.1883s
+  #Accuracy of the network lin_5_nosig on the 10000 test images: 9.80%
+  #Function 'train' executed in 180.1692s
+  #Accuracy of the network lin_5_nosig on the 10000 test images: 9.80%
+
+for the base model:
+  #Function 'train' executed in 83.9065s
+  #Accuracy of the network plain_net on the 10000 test images: 90.64%
+  #Function 'train' executed in 84.6967s
+  #Accuracy of the network plain_net on the 10000 test images: 90.66%
+    # Function 'train' executed in 83.7983s
+    # Accuracy of the network plain_net on the 10000 test images: 90.37%
+    # Function 'train' executed in 83.2295s
+    # Accuracy of the network plain_net on the 10000 test images: 90.83%
+    #Function 'train' executed in 82.5710s
+    #Accuracy of the network plain_net on the 10000 test images: 91.10%
+
+for sig_lin_5:
+#   over 15 iterations with lr = 0.001: [41.92, 63.7, 77.77, 85.78, 86.32, 85.76, 85.91, 91.95, 87.94, 94.64, 95.66, 95.95, 95.54, 95.27, 96.21]
+#   30 iters w/ lr = 0.001:
+    #[45.86, 71.93, 76.55999999999999, 80.72, 76.78,
+    #95.56, 94.69, 95.15, 95.8, 93.97,
+    #96.04, 95.36, 96.2, 96.69, 95.09,
+    #94.44, 94.08, 95.92, 96.48, 96.61999999999999,
+    #96.25, 95.33, 95.72, 96.13000000000001, 96.54,
+    #96.3, 96.7, 96.32, 95.58, 96.66]
+      # interestingly no overfitting yet, even after 25 iters of stability
+
+Accuracy of the network exp_5 with 7 epochs and learning rate 0.001 on the 10000 test images: 67.14%
+Function 'results' executed in 187.1151s
+Accuracy of the network exp_5_nosig with 7 epochs and learning rate 0.001 on the 10000 test images: 50.16%
+Function 'results' executed in 216.8554s
+Accuracy of the network lin_5 with 7 epochs and learning rate 0.001 on the 10000 test images: 95.70%
+Function 'results' executed in 242.9744s
+Accuracy of the network lin_5_nosig with 7 epochs and learning rate 0.001 on the 10000 test images: 9.80%
+Function 'results' executed in 500.5144s
+Accuracy of the network plain_net with 7 epochs and learning rate 0.001 on the 10000 test images: 90.74%
+Function 'results' executed in 160.4978s
+
+[58.75, 59.199999999999996, 58.60999999999999, 59.31999999999999, 59.24]
+[90.99000000000001, 90.38000000000001, 91.39, 91.93, 91.47]
+[67.47, 68.08999999999999, 68.01, 68.42, 68.47]
+[88.75999999999999, 89.78, 89.92999999999999, 91.14, 91.9]
+[37.480000000000004, 38.04, 38.12, 38.1, 38.04]
+
+for the 15 epoch one, all of them except FNNF nosig stayed pretty much constant..... I have no idea how.
+it improved from 87% to 92%....
